@@ -35,6 +35,9 @@
 
 ## 📡Network보안
 ![20250304-s-n](https://github.com/user-attachments/assets/213c4684-52ac-489e-9c95-8eec279d6a7d)
+- NIDS와 HIDS를 통한 탐지시스템 구축
+- ASAv를 이용한 방화벽 구축
+- 주요 라우터를 통한 접근제어 Rule 작성
 
 ## 🧬전체적인 보안
 ![full_security_portfolio](https://github.com/user-attachments/assets/8dc6783f-1833-499d-9ba6-5a393ba0a629)
