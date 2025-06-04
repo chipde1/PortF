@@ -11,7 +11,7 @@
 - XOR의 속성을 이용한 취약점
 - sudoedit의 권한상승(CSV-2021-3156)
 ---
-# Wargame
+# 💣Wargame
 ## 🔍정보
 - **대회명:** KoreaIT배 Wargame 대회
 - **주최:** KoreaIT 대구지점
@@ -30,3 +30,12 @@
 10. Code Analysis를 통한 Flag 획득
 ---
 # 💻개인 프로젝트
+## 🗄️DB보안
+![db-software-application-20250404](https://github.com/user-attachments/assets/8b7166af-e821-44c0-9c92-29e7f7aa0620)
+
+## 📡Network보안
+![20250304-s-n](https://github.com/user-attachments/assets/213c4684-52ac-489e-9c95-8eec279d6a7d)
+
+## 🧬전체적인 보안
+![full_security_portfolio](https://github.com/user-attachments/assets/8dc6783f-1833-499d-9ba6-5a393ba0a629)
+
