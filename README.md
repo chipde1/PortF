@@ -34,6 +34,7 @@
 ![db-software-application-20250404](https://github.com/user-attachments/assets/8b7166af-e821-44c0-9c92-29e7f7aa0620)
 - PMM을 통한 DB탐지시스템 구축
 - DB내에서 사용자 접근권한 설정
+- View 테이블 설정
 
 ## 📡Network보안
 ![20250304-s-n](https://github.com/user-attachments/assets/213c4684-52ac-489e-9c95-8eec279d6a7d)
