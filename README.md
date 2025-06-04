@@ -44,4 +44,7 @@
 
 ## 🧬전체적인 보안
 ![full_security_portfolio](https://github.com/user-attachments/assets/8dc6783f-1833-499d-9ba6-5a393ba0a629)
+- 통합관제시스템 wazuh 구축
+- 웹 방화벽 구축
+- Network보안과 DB보안 구축
 
