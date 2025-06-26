@@ -1,6 +1,8 @@
 # 🛡CTF
 
 ## 🔍정보
+![CTF-정보시스템보안구축엔지니어](https://github.com/user-attachments/assets/cd051eed-39ee-427a-bcc4-4dc3d1c6c873)
+
 - **대회명:** KoreaIT배 CTF 대회
 - **주최:** KoreaIT 대구지점
 - **참가 기간:** [2025.03.20 ~ 2025.04.18] 
@@ -12,6 +14,8 @@
 - sudoedit의 권한상승(CSV-2021-3156)
 ---
 # 💣Wargame
+![Wargame-정보시스템구축엔지니어](https://github.com/user-attachments/assets/af5d054d-425f-4a6e-ae57-d179e201e4de)
+
 ## 🔍정보
 - **대회명:** KoreaIT배 Wargame 대회
 - **주최:** KoreaIT 대구지점
